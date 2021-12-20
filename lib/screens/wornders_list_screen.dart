@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:world_wonders/data/wordl_wonders.dart';
+import 'package:world_wonders/data/world_wonders.dart';
 import 'package:world_wonders/screens/wonders_map.dart';
 
 class WondersListScreen extends StatelessWidget {
